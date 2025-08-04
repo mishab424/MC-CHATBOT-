@@ -1,6 +1,6 @@
 [
   {
-    "name": "MC CHATBOT - AskAssist",
+    "name": "MC CHATBOT PRO",
     "version": "Basic 1.0.0",
     "description": "MC CHATBOT - AskAssist is a dynamic Oracle APEX plugin that provides a predefined question-answer chatbot system with sub-question branching. Built with a modern UI/UX, it helps streamline user interaction for FAQs, onboarding, and guided support flows.",
     "keywords": [
@@ -43,4 +43,5 @@
     }
   }
 ]
+
 
